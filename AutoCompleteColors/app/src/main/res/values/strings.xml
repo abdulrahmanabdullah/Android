@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AutoCompleteColors</string>
+    <string-array name="Colors_name">
+        <item>Green</item>
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Yellow</item>
+        <item>Gray</item>
+        <item>White</item>
+        <item>Black</item>
+    </string-array>
+</resources>
